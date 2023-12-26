@@ -5,3 +5,8 @@
 char -> int -> long -> float -> double
 或
 byte -> short -> int -> long -> float -> double
+
+byte 1字节
+short 2字节
+int  4字节
+long 8字节
