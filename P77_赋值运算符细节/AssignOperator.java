@@ -1,0 +1,9 @@
+public class AssignOperator {
+	public static void main(String[] args) {
+		// 复合赋值运算符会进行类型转换
+		byte b = 3;
+		b += 2; // 等价 b = (byte)(b + 2);
+		b++; // b = (byte)(b+1);
+		System.out.println(b);
+	}
+}
