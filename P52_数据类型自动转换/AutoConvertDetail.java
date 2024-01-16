@@ -9,7 +9,7 @@ public class AutoConvertDetail {
 		// double d1 = n1 + 1.1; // 对 类型就是 double
 
 		// 细节2：当我们把精度（容量）大的数据类型赋值给精度（容量）小的数据类型时
-		// 就会报错，繁殖就会进行自动类型转换
+		// 就会报错，反之就会进行自动类型转换
 		// int n2 = 1.1; // 错误 double -> int
 
 		// 细节3：(byte, short) 和 char 之间不会相互自动转换
