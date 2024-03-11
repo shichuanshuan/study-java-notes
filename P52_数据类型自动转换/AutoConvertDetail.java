@@ -19,7 +19,7 @@ public class AutoConvertDetail {
 		// byte b2 = n2; // 把 4 个字节分配给 b2 1字节会错误
 		// char c1 = b1; 错误，原因 byte 不能自动转换成 char
 
-		// 细节4： byte,short, char 他们三者可以计算，在计算式首先转换为 int 类型
+		// 细节4： byte,short, char 他们三者可以计算，在计算时首先转换为 int 类型
 		byte b2 = 1;
 		short s1 = 1;
 		// short s2 = b2 + s1; // 错，b2 + s1 => int
