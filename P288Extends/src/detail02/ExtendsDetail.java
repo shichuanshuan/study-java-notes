@@ -6,7 +6,7 @@ public class ExtendsDetail {
         System.out.println("=============");
         Sub sub2 = new Sub("jack");
         System.out.println("=============");
-        Sub shics = new Sub("shics", 23);
+        new Sub("shics", 23);
 
     }
 }
