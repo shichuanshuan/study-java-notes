@@ -1,4 +1,4 @@
-package com.static_detail;
+package com.static_variable.static_detail;
 
 public class StaticDetail {
 }

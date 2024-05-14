@@ -1,4 +1,4 @@
-package com.static_04;
+package com.static_variable.static_04;
 
 public class StaticMethod {
     public static void main(String[] args) {

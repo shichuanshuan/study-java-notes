@@ -1,4 +1,4 @@
-package com.static_03;
+package com.static_variable.static_03;
 
 public class VisitStatic {
     public static void main(String[] args) {
