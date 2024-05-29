@@ -2,6 +2,7 @@ package com.equals_2;
 
 public class Equals01 {
     public static void main(String[] args) {
+        // 1. 比较两个引用类型的值是否相同
 //        "hello".equals("abc");
         Integer int1 = new Integer(1000);
         Integer int2 = new Integer(1000);

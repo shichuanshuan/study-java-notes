@@ -1,7 +1,5 @@
 package com.polyArr_7;
 
-import com.polyArr_7_1.Person;
-
 public class Student extends Person {
     private double score;
 

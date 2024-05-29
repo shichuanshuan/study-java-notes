@@ -67,7 +67,7 @@ class B02 extends A02 {
     }
 
     public int getVal04() {
-        System.out.println("getVal03");
+        System.out.println("getVal04");
         return 10;
     }
 
