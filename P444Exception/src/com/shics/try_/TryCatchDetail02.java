@@ -3,7 +3,7 @@ package com.shics.try_;
 public class TryCatchDetail02 {
     public static void main(String[] args) {
 
-        // 1. 如果 try 代码块又可能又多个异常
+        // 1. try 代码块有可能有多个异常
         // 2. 可以使用多个 catch 分别捕获不同的异常，相应处理
         // 3. 要求子类异常写在前面，父类异常写在后面
         try {
