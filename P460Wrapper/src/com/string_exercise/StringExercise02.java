@@ -9,9 +9,7 @@ public class StringExercise02 {
 
         System.out.println(p1.name.equals(p2.name)); // 比较内容 T
         System.out.println(p1.name == p2.name); //
-        System.out.println(p1.name == "shics"); // 
-
-
+        System.out.println(p1.name == "shics"); //
     }
 }
 
